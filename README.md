@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# E-Commerce Web
+
+Welcome to the repository for my e-commerce website! This project is a fully functional e-commerce web application built using React JS, HTML, and CSS
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
